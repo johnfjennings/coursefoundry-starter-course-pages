@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Starter Course</title>
+<title>Understanding the Learning Journey – Starter Course</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,32 +23,68 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./modules/01-introduction/03-lesson2.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/naquiz-styles-1.0.4/buttons.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../modules/01-introduction/02-welcome.html" rel="next">
+<link href="../../modules/01-introduction/03-lesson2.html" rel="prev">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-624398dd49c462505b02180ba4169a35.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/naquiz-styles-1.0.4/buttons.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,11 +113,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Starter Course">
+<meta property="og:title" content="Understanding the Learning Journey – Starter Course">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://odvtslzlamhvkuthtsnx.supabase.co/storage/v1/object/public/course-assets/7b6f313d-854f-4132-add8-d3fe255c0e52/images/cf-cover.svg">
 <meta property="og:site_name" content="Starter Course">
-<script type='application/ld+json'>{"@context": "https://schema.org", "@type": "Course", "name": "Starter Course", "description": "A free online course published with CourseFoundry.", "url": "https://johnfjennings.github.io/coursefoundry-starter-course-pages/", "inLanguage": "en", "provider": {"@type": "Organization", "name": "CourseFoundry", "url": "https://www.coursefoundry.com"}, "offers": {"@type": "Offer", "category": "Free", "price": 0, "priceCurrency": "USD"}, "hasCourseInstance": {"@type": "CourseInstance", "courseMode": "online"}}</script></head>
+</head>
 
 <body class="nav-sidebar docked quarto-light">
 
@@ -92,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Overview</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../modules/01-introduction/03-lesson2.html">Introduction</a></li><li class="breadcrumb-item"><a href="../../modules/01-introduction/01-lesson.html">Lesson</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -104,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Starter Course</a> 
+      <a href="../../">Starter Course</a> 
         <div class="sidebar-tools-main">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
@@ -118,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
@@ -133,19 +168,19 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/01-introduction/03-lesson2.html" class="sidebar-item-text sidebar-link">
+  <a href="../../modules/01-introduction/03-lesson2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lesson2</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/01-introduction/01-lesson.html" class="sidebar-item-text sidebar-link">
+  <a href="../../modules/01-introduction/01-lesson.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Lesson</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./modules/01-introduction/02-welcome.html" class="sidebar-item-text sidebar-link">
+  <a href="../../modules/01-introduction/02-welcome.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome</span></a>
   </div>
 </li>
@@ -161,9 +196,38 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
+  <li><a href="#course-structure-and-expectations" id="toc-course-structure-and-expectations" class="nav-link active" data-scroll-target="#course-structure-and-expectations">Course Structure and Expectations</a>
   <ul class="collapse">
-  <li><a href="#who-this-is-for" id="toc-who-this-is-for" class="nav-link" data-scroll-target="#who-this-is-for">Who This Is For</a></li>
+  <li><a href="#course-design-philosophy" id="toc-course-design-philosophy" class="nav-link" data-scroll-target="#course-design-philosophy">Course Design Philosophy</a></li>
+  </ul></li>
+  <li><a href="#how-to-get-the-most-from-this-course" id="toc-how-to-get-the-most-from-this-course" class="nav-link" data-scroll-target="#how-to-get-the-most-from-this-course">How to Get the Most from This Course</a>
+  <ul class="collapse">
+  <li><a href="#active-learning-strategies" id="toc-active-learning-strategies" class="nav-link" data-scroll-target="#active-learning-strategies">Active Learning Strategies</a></li>
+  <li><a href="#setting-up-for-success" id="toc-setting-up-for-success" class="nav-link" data-scroll-target="#setting-up-for-success">Setting Up for Success</a></li>
+  </ul></li>
+  <li><a href="#navigation-and-resources" id="toc-navigation-and-resources" class="nav-link" data-scroll-target="#navigation-and-resources">Navigation and Resources</a>
+  <ul class="collapse">
+  <li><a href="#using-the-course-interface" id="toc-using-the-course-interface" class="nav-link" data-scroll-target="#using-the-course-interface">Using the Course Interface</a></li>
+  <li><a href="#course-materials-organization" id="toc-course-materials-organization" class="nav-link" data-scroll-target="#course-materials-organization">Course Materials Organization</a></li>
+  </ul></li>
+  <li><a href="#learning-objectives-and-outcomes" id="toc-learning-objectives-and-outcomes" class="nav-link" data-scroll-target="#learning-objectives-and-outcomes">Learning Objectives and Outcomes</a>
+  <ul class="collapse">
+  <li><a href="#what-youre-building-toward" id="toc-what-youre-building-toward" class="nav-link" data-scroll-target="#what-youre-building-toward">What You’re Building Toward</a></li>
+  <li><a href="#skill-development-framework" id="toc-skill-development-framework" class="nav-link" data-scroll-target="#skill-development-framework">Skill Development Framework</a></li>
+  </ul></li>
+  <li><a href="#common-challenges-and-solutions" id="toc-common-challenges-and-solutions" class="nav-link" data-scroll-target="#common-challenges-and-solutions">Common Challenges and Solutions</a>
+  <ul class="collapse">
+  <li><a href="#overcoming-learning-obstacles" id="toc-overcoming-learning-obstacles" class="nav-link" data-scroll-target="#overcoming-learning-obstacles">Overcoming Learning Obstacles</a></li>
+  <li><a href="#building-confidence" id="toc-building-confidence" class="nav-link" data-scroll-target="#building-confidence">Building Confidence</a></li>
+  </ul></li>
+  <li><a href="#next-steps-and-preparation" id="toc-next-steps-and-preparation" class="nav-link" data-scroll-target="#next-steps-and-preparation">Next Steps and Preparation</a>
+  <ul class="collapse">
+  <li><a href="#whats-coming-up" id="toc-whats-coming-up" class="nav-link" data-scroll-target="#whats-coming-up">What’s Coming Up</a></li>
+  <li><a href="#how-to-prepare" id="toc-how-to-prepare" class="nav-link" data-scroll-target="#how-to-prepare">How to Prepare</a></li>
+  </ul></li>
+  <li><a href="#summary-and-key-takeaways" id="toc-summary-and-key-takeaways" class="nav-link" data-scroll-target="#summary-and-key-takeaways">Summary and Key Takeaways</a>
+  <ul class="collapse">
+  <li><a href="#action-items" id="toc-action-items" class="nav-link" data-scroll-target="#action-items">Action Items</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -171,9 +235,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../modules/01-introduction/03-lesson2.html">Introduction</a></li><li class="breadcrumb-item"><a href="../../modules/01-introduction/01-lesson.html">Lesson</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Starter Course</h1>
+<h1 class="title">Understanding the Learning Journey</h1>
 </div>
 
 
@@ -190,18 +254,204 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://odvtslzlamhvkuthtsnx.supabase.co/storage/v1/object/public/course-assets/7b6f313d-854f-4132-add8-d3fe255c0e52/images/cf-cover.svg" class="img-fluid figure-img"></p>
-<figcaption>Course Cover</figcaption>
-</figure>
+<section id="course-structure-and-expectations" class="level2">
+<h2 class="anchored" data-anchor-id="course-structure-and-expectations">Course Structure and Expectations</h2>
+<p>Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.</p>
+<section id="course-design-philosophy" class="level3">
+<h3 class="anchored" data-anchor-id="course-design-philosophy">Course Design Philosophy</h3>
+<p>This course is built around the principle of <strong>progressive learning</strong> — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<section id="welcome" class="level1">
-<h1>Welcome</h1>
-<p>This is the landing page for your course. Edit this file to introduce your course to students.!!!!!…!..</p>
-<section id="who-this-is-for" class="level2">
-<h2 class="anchored" data-anchor-id="who-this-is-for">Who This Is For</h2>
-<p>Beginners — no prior experience required.</p>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Learning Path
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Each module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="how-to-get-the-most-from-this-course" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-get-the-most-from-this-course">How to Get the Most from This Course</h2>
+<section id="active-learning-strategies" class="level3">
+<h3 class="anchored" data-anchor-id="active-learning-strategies">Active Learning Strategies</h3>
+<p>Learning is most effective when you’re actively engaged with the material. Here are the key strategies we’ll use throughout this course:</p>
+<ol type="1">
+<li><strong>Practice Immediately</strong>: Each concept is followed by practical exercises</li>
+<li><strong>Reflect and Connect</strong>: Regular check-ins help you connect new knowledge to what you already know</li>
+<li><strong>Apply in Context</strong>: Real-world scenarios help you understand when and how to use new skills</li>
+</ol>
+</section>
+<section id="setting-up-for-success" class="level3">
+<h3 class="anchored" data-anchor-id="setting-up-for-success">Setting Up for Success</h3>
+<p>Before diving into the core content, let’s establish some best practices:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Your Learning Checklist</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="va">[ ]</span> Set aside dedicated time for each lesson</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="va">[ ]</span> Have a notebook (digital or physical) for taking notes</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="va">[ ]</span> Create a practice space for exercises</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="va">[ ]</span> Identify how you'll apply this knowledge in your work</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Time Management
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Block out focused time for learning. Research shows that 25-30 minute focused sessions with short breaks are more effective than long, interrupted study periods.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="navigation-and-resources" class="level2">
+<h2 class="anchored" data-anchor-id="navigation-and-resources">Navigation and Resources</h2>
+<section id="using-the-course-interface" class="level3">
+<h3 class="anchored" data-anchor-id="using-the-course-interface">Using the Course Interface</h3>
+<p>This course website includes several helpful features:</p>
+<ul>
+<li><strong>Search functionality</strong>: Use the search box in the navigation bar to quickly find specific topics</li>
+<li><strong>Page navigation</strong>: Previous/next links at the bottom of each page keep you on track</li>
+<li><strong>Reader mode</strong>: Toggle for distraction-free reading when you need to focus</li>
+<li><strong>Responsive design</strong>: Works seamlessly on desktop, tablet, and mobile devices</li>
+</ul>
+</section>
+<section id="course-materials-organization" class="level3">
+<h3 class="anchored" data-anchor-id="course-materials-organization">Course Materials Organization</h3>
+<p>The course is organized into logical modules, each containing multiple lessons:</p>
+<pre><code>Starter Course/
+├── Module 01: Introduction
+│   ├── Welcome (Getting oriented)
+│   └── Understanding the Learning Journey (You are here!)
+├── Module 02: Core Concepts
+│   └── [Future lessons will be added here]
+└── Module 03: Advanced Applications
+    └── [Future lessons will be added here]</code></pre>
+</section>
+</section>
+<section id="learning-objectives-and-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives-and-outcomes">Learning Objectives and Outcomes</h2>
+<section id="what-youre-building-toward" class="level3">
+<h3 class="anchored" data-anchor-id="what-youre-building-toward">What You’re Building Toward</h3>
+<p>By the end of this course, you will be able to:</p>
+<ul>
+<li><strong>Understand</strong> the fundamental concepts covered in each module</li>
+<li><strong>Apply</strong> these concepts in practical, real-world situations</li>
+<li><strong>Evaluate</strong> different approaches and choose the most appropriate solutions</li>
+<li><strong>Create</strong> your own implementations using the skills you’ve learned</li>
+</ul>
+</section>
+<section id="skill-development-framework" class="level3">
+<h3 class="anchored" data-anchor-id="skill-development-framework">Skill Development Framework</h3>
+<p>We use a progressive skill development approach:</p>
+<ol type="1">
+<li><strong>Foundation</strong>: Understanding core principles and terminology</li>
+<li><strong>Application</strong>: Practicing with guided examples and exercises</li>
+<li><strong>Integration</strong>: Combining concepts to solve complex problems</li>
+<li><strong>Innovation</strong>: Adapting and extending concepts for novel situations</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Assessment and Progress
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>While this is a self-paced course, regular self-assessment is crucial. Each module includes checkpoints to help you gauge your understanding and identify areas that may need additional review.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="common-challenges-and-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="common-challenges-and-solutions">Common Challenges and Solutions</h2>
+<section id="overcoming-learning-obstacles" class="level3">
+<h3 class="anchored" data-anchor-id="overcoming-learning-obstacles">Overcoming Learning Obstacles</h3>
+<p>Every learner faces challenges. Here are the most common ones and how to address them:</p>
+<p><strong>Information Overload</strong> - Solution: Take breaks between lessons and practice what you’ve learned before moving on</p>
+<p><strong>Lack of Context</strong> - Solution: Try to connect each new concept to something you already know or use</p>
+<p><strong>Perfectionism</strong> - Solution: Remember that learning is iterative — you don’t need to master everything on the first pass</p>
+<p><strong>Time Constraints</strong> - Solution: Even 15 minutes of focused learning is valuable — consistency matters more than duration</p>
+</section>
+<section id="building-confidence" class="level3">
+<h3 class="anchored" data-anchor-id="building-confidence">Building Confidence</h3>
+<p>Learning new skills can feel overwhelming, but remember:</p>
+<ul>
+<li>Everyone starts as a beginner</li>
+<li>Making mistakes is part of the learning process</li>
+<li>Each small step forward is progress worth celebrating</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Growth Mindset
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Approach challenges with curiosity rather than frustration. Ask “What can I learn from this?” instead of “Why don’t I understand this?”</p>
+</div>
+</div>
+</section>
+</section>
+<section id="next-steps-and-preparation" class="level2">
+<h2 class="anchored" data-anchor-id="next-steps-and-preparation">Next Steps and Preparation</h2>
+<section id="whats-coming-up" class="level3">
+<h3 class="anchored" data-anchor-id="whats-coming-up">What’s Coming Up</h3>
+<p>In the next module, we’ll begin exploring the core concepts that form the foundation of this subject area. You’ll start with hands-on exercises and build practical skills you can use immediately.</p>
+</section>
+<section id="how-to-prepare" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-prepare">How to Prepare</h3>
+<ol type="1">
+<li><strong>Review your notes</strong> from this lesson and the welcome lesson</li>
+<li><strong>Set up your learning environment</strong> with any tools or resources mentioned</li>
+<li><strong>Clear your schedule</strong> for dedicated learning time</li>
+<li><strong>Prepare questions</strong> about anything you’d like clarified</li>
+</ol>
+</section>
+</section>
+<section id="summary-and-key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="summary-and-key-takeaways">Summary and Key Takeaways</h2>
+<p>This lesson established the framework for your learning journey through this course. The key points to remember are:</p>
+<ul>
+<li><strong>Active engagement</strong> with the material leads to better learning outcomes</li>
+<li><strong>Progressive structure</strong> means each lesson builds on the previous ones</li>
+<li><strong>Practical application</strong> is emphasized throughout the course</li>
+<li><strong>Self-paced learning</strong> allows you to move at a comfortable speed</li>
+<li><strong>Support resources</strong> are available to help you succeed</li>
+</ul>
+<section id="action-items" class="level3">
+<h3 class="anchored" data-anchor-id="action-items">Action Items</h3>
+<p>Before moving to the next lesson:</p>
+<ol type="1">
+<li>Set up your preferred note-taking system</li>
+<li>Bookmark this course for easy access</li>
+<li>Schedule time for the upcoming lessons</li>
+<li>Identify one specific way you plan to apply what you’re learning</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Ready to Continue?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You now have a solid understanding of how this course works and what to expect. You’re ready to dive into the core content in the next module. Remember, learning is a journey — enjoy the process!</p>
+</div>
+</div>
+<p>The foundation is set, and you’re equipped with the knowledge and strategies you need to succeed. Let’s move forward and start building those practical skills!</p>
 
 
 </section>
@@ -610,10 +860,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../../modules/01-introduction/03-lesson2.html" class="pagination-link" aria-label="Lesson2">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Lesson2</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./modules/01-introduction/03-lesson2.html" class="pagination-link" aria-label="Lesson2">
-        <span class="nav-page-text">Lesson2</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../modules/01-introduction/02-welcome.html" class="pagination-link" aria-label="Welcome">
+        <span class="nav-page-text">Welcome</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

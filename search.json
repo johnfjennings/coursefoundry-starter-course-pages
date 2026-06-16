@@ -1,115 +1,5 @@
 [
   {
-    "objectID": "modules/01-introduction/02-lesson.html",
-    "href": "modules/01-introduction/02-lesson.html",
-    "title": "Understanding the Learning Journey",
-    "section": "",
-    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept.",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#course-structure-and-expectations",
-    "href": "modules/01-introduction/02-lesson.html#course-structure-and-expectations",
-    "title": "Understanding the Learning Journey",
-    "section": "",
-    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept.",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#how-to-get-the-most-from-this-course",
-    "href": "modules/01-introduction/02-lesson.html#how-to-get-the-most-from-this-course",
-    "title": "Understanding the Learning Journey",
-    "section": "How to Get the Most from This Course",
-    "text": "How to Get the Most from This Course\n\nActive Learning Strategies\nLearning is most effective when you’re actively engaged with the material. Here are the key strategies we’ll use throughout this course:\n\nPractice Immediately: Each concept is followed by practical exercises\nReflect and Connect: Regular check-ins help you connect new knowledge to what you already know\nApply in Context: Real-world scenarios help you understand when and how to use new skills\n\n\n\nSetting Up for Success\nBefore diving into the core content, let’s establish some best practices:\n## Your Learning Checklist\n- [ ] Set aside dedicated time for each lesson\n- [ ] Have a notebook (digital or physical) for taking notes\n- [ ] Create a practice space for exercises\n- [ ] Identify how you'll apply this knowledge in your work\n\n\n\n\n\n\nTipTime Management\n\n\n\nBlock out focused time for learning. Research shows that 25-30 minute focused sessions with short breaks are more effective than long, interrupted study periods.",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#navigation-and-resources",
-    "href": "modules/01-introduction/02-lesson.html#navigation-and-resources",
-    "title": "Understanding the Learning Journey",
-    "section": "Navigation and Resources",
-    "text": "Navigation and Resources\n\nUsing the Course Interface\nThis course website includes several helpful features:\n\nSearch functionality: Use the search box in the navigation bar to quickly find specific topics\nPage navigation: Previous/next links at the bottom of each page keep you on track\nReader mode: Toggle for distraction-free reading when you need to focus\nResponsive design: Works seamlessly on desktop, tablet, and mobile devices\n\n\n\nCourse Materials Organization\nThe course is organized into logical modules, each containing multiple lessons:\nStarter Course/\n├── Module 01: Introduction\n│   ├── Welcome (Getting oriented)\n│   └── Understanding the Learning Journey (You are here!)\n├── Module 02: Core Concepts\n│   └── [Future lessons will be added here]\n└── Module 03: Advanced Applications\n    └── [Future lessons will be added here]",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#learning-objectives-and-outcomes",
-    "href": "modules/01-introduction/02-lesson.html#learning-objectives-and-outcomes",
-    "title": "Understanding the Learning Journey",
-    "section": "Learning Objectives and Outcomes",
-    "text": "Learning Objectives and Outcomes\n\nWhat You’re Building Toward\nBy the end of this course, you will be able to:\n\nUnderstand the fundamental concepts covered in each module\nApply these concepts in practical, real-world situations\nEvaluate different approaches and choose the most appropriate solutions\nCreate your own implementations using the skills you’ve learned\n\n\n\nSkill Development Framework\nWe use a progressive skill development approach:\n\nFoundation: Understanding core principles and terminology\nApplication: Practicing with guided examples and exercises\nIntegration: Combining concepts to solve complex problems\nInnovation: Adapting and extending concepts for novel situations\n\n\n\n\n\n\n\nNoteAssessment and Progress\n\n\n\nWhile this is a self-paced course, regular self-assessment is crucial. Each module includes checkpoints to help you gauge your understanding and identify areas that may need additional review.",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#common-challenges-and-solutions",
-    "href": "modules/01-introduction/02-lesson.html#common-challenges-and-solutions",
-    "title": "Understanding the Learning Journey",
-    "section": "Common Challenges and Solutions",
-    "text": "Common Challenges and Solutions\n\nOvercoming Learning Obstacles\nEvery learner faces challenges. Here are the most common ones and how to address them:\nInformation Overload - Solution: Take breaks between lessons and practice what you’ve learned before moving on\nLack of Context - Solution: Try to connect each new concept to something you already know or use\nPerfectionism - Solution: Remember that learning is iterative — you don’t need to master everything on the first pass\nTime Constraints - Solution: Even 15 minutes of focused learning is valuable — consistency matters more than duration\n\n\nBuilding Confidence\nLearning new skills can feel overwhelming, but remember:\n\nEveryone starts as a beginner\nMaking mistakes is part of the learning process\nEach small step forward is progress worth celebrating\n\n\n\n\n\n\n\nTipGrowth Mindset\n\n\n\nApproach challenges with curiosity rather than frustration. Ask “What can I learn from this?” instead of “Why don’t I understand this?”",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#next-steps-and-preparation",
-    "href": "modules/01-introduction/02-lesson.html#next-steps-and-preparation",
-    "title": "Understanding the Learning Journey",
-    "section": "Next Steps and Preparation",
-    "text": "Next Steps and Preparation\n\nWhat’s Coming Up\nIn the next module, we’ll begin exploring the core concepts that form the foundation of this subject area. You’ll start with hands-on exercises and build practical skills you can use immediately.\n\n\nHow to Prepare\n\nReview your notes from this lesson and the welcome lesson\nSet up your learning environment with any tools or resources mentioned\nClear your schedule for dedicated learning time\nPrepare questions about anything you’d like clarified",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/02-lesson.html#summary-and-key-takeaways",
-    "href": "modules/01-introduction/02-lesson.html#summary-and-key-takeaways",
-    "title": "Understanding the Learning Journey",
-    "section": "Summary and Key Takeaways",
-    "text": "Summary and Key Takeaways\nThis lesson established the framework for your learning journey through this course. The key points to remember are:\n\nActive engagement with the material leads to better learning outcomes\nProgressive structure means each lesson builds on the previous ones\nPractical application is emphasized throughout the course\nSelf-paced learning allows you to move at a comfortable speed\nSupport resources are available to help you succeed\n\n\nAction Items\nBefore moving to the next lesson:\n\nSet up your preferred note-taking system\nBookmark this course for easy access\nSchedule time for the upcoming lessons\nIdentify one specific way you plan to apply what you’re learning\n\n\n\n\n\n\n\nNoteReady to Continue?\n\n\n\nYou now have a solid understanding of how this course works and what to expect. You’re ready to dive into the core content in the next module. Remember, learning is a journey — enjoy the process!\n\n\nThe foundation is set, and you’re equipped with the knowledge and strategies you need to succeed. Let’s move forward and start building those practical skills!",
-    "crumbs": [
-      "Introduction",
-      "Lesson"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-welcome.html",
-    "href": "modules/01-introduction/01-welcome.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
-    "crumbs": [
-      "Introduction",
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "modules/01-introduction/01-welcome.html#introduction",
-    "href": "modules/01-introduction/01-welcome.html#introduction",
-    "title": "Welcome",
-    "section": "",
-    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
-    "crumbs": [
-      "Introduction",
-      "Welcome"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Starter Course",
@@ -128,5 +18,185 @@
     "crumbs": [
       "Overview"
     ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html",
+    "href": "modules/01-introduction/02-lesson.html",
+    "title": "Understanding the Learning Journey",
+    "section": "",
+    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept."
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#course-structure-and-expectations",
+    "href": "modules/01-introduction/02-lesson.html#course-structure-and-expectations",
+    "title": "Understanding the Learning Journey",
+    "section": "",
+    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept."
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#how-to-get-the-most-from-this-course",
+    "href": "modules/01-introduction/02-lesson.html#how-to-get-the-most-from-this-course",
+    "title": "Understanding the Learning Journey",
+    "section": "How to Get the Most from This Course",
+    "text": "How to Get the Most from This Course\n\nActive Learning Strategies\nLearning is most effective when you’re actively engaged with the material. Here are the key strategies we’ll use throughout this course:\n\nPractice Immediately: Each concept is followed by practical exercises\nReflect and Connect: Regular check-ins help you connect new knowledge to what you already know\nApply in Context: Real-world scenarios help you understand when and how to use new skills\n\n\n\nSetting Up for Success\nBefore diving into the core content, let’s establish some best practices:\n## Your Learning Checklist\n- [ ] Set aside dedicated time for each lesson\n- [ ] Have a notebook (digital or physical) for taking notes\n- [ ] Create a practice space for exercises\n- [ ] Identify how you'll apply this knowledge in your work\n\n\n\n\n\n\nTipTime Management\n\n\n\nBlock out focused time for learning. Research shows that 25-30 minute focused sessions with short breaks are more effective than long, interrupted study periods."
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#navigation-and-resources",
+    "href": "modules/01-introduction/02-lesson.html#navigation-and-resources",
+    "title": "Understanding the Learning Journey",
+    "section": "Navigation and Resources",
+    "text": "Navigation and Resources\n\nUsing the Course Interface\nThis course website includes several helpful features:\n\nSearch functionality: Use the search box in the navigation bar to quickly find specific topics\nPage navigation: Previous/next links at the bottom of each page keep you on track\nReader mode: Toggle for distraction-free reading when you need to focus\nResponsive design: Works seamlessly on desktop, tablet, and mobile devices\n\n\n\nCourse Materials Organization\nThe course is organized into logical modules, each containing multiple lessons:\nStarter Course/\n├── Module 01: Introduction\n│   ├── Welcome (Getting oriented)\n│   └── Understanding the Learning Journey (You are here!)\n├── Module 02: Core Concepts\n│   └── [Future lessons will be added here]\n└── Module 03: Advanced Applications\n    └── [Future lessons will be added here]"
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#learning-objectives-and-outcomes",
+    "href": "modules/01-introduction/02-lesson.html#learning-objectives-and-outcomes",
+    "title": "Understanding the Learning Journey",
+    "section": "Learning Objectives and Outcomes",
+    "text": "Learning Objectives and Outcomes\n\nWhat You’re Building Toward\nBy the end of this course, you will be able to:\n\nUnderstand the fundamental concepts covered in each module\nApply these concepts in practical, real-world situations\nEvaluate different approaches and choose the most appropriate solutions\nCreate your own implementations using the skills you’ve learned\n\n\n\nSkill Development Framework\nWe use a progressive skill development approach:\n\nFoundation: Understanding core principles and terminology\nApplication: Practicing with guided examples and exercises\nIntegration: Combining concepts to solve complex problems\nInnovation: Adapting and extending concepts for novel situations\n\n\n\n\n\n\n\nNoteAssessment and Progress\n\n\n\nWhile this is a self-paced course, regular self-assessment is crucial. Each module includes checkpoints to help you gauge your understanding and identify areas that may need additional review."
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#common-challenges-and-solutions",
+    "href": "modules/01-introduction/02-lesson.html#common-challenges-and-solutions",
+    "title": "Understanding the Learning Journey",
+    "section": "Common Challenges and Solutions",
+    "text": "Common Challenges and Solutions\n\nOvercoming Learning Obstacles\nEvery learner faces challenges. Here are the most common ones and how to address them:\nInformation Overload - Solution: Take breaks between lessons and practice what you’ve learned before moving on\nLack of Context - Solution: Try to connect each new concept to something you already know or use\nPerfectionism - Solution: Remember that learning is iterative — you don’t need to master everything on the first pass\nTime Constraints - Solution: Even 15 minutes of focused learning is valuable — consistency matters more than duration\n\n\nBuilding Confidence\nLearning new skills can feel overwhelming, but remember:\n\nEveryone starts as a beginner\nMaking mistakes is part of the learning process\nEach small step forward is progress worth celebrating\n\n\n\n\n\n\n\nTipGrowth Mindset\n\n\n\nApproach challenges with curiosity rather than frustration. Ask “What can I learn from this?” instead of “Why don’t I understand this?”"
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#next-steps-and-preparation",
+    "href": "modules/01-introduction/02-lesson.html#next-steps-and-preparation",
+    "title": "Understanding the Learning Journey",
+    "section": "Next Steps and Preparation",
+    "text": "Next Steps and Preparation\n\nWhat’s Coming Up\nIn the next module, we’ll begin exploring the core concepts that form the foundation of this subject area. You’ll start with hands-on exercises and build practical skills you can use immediately.\n\n\nHow to Prepare\n\nReview your notes from this lesson and the welcome lesson\nSet up your learning environment with any tools or resources mentioned\nClear your schedule for dedicated learning time\nPrepare questions about anything you’d like clarified"
+  },
+  {
+    "objectID": "modules/01-introduction/02-lesson.html#summary-and-key-takeaways",
+    "href": "modules/01-introduction/02-lesson.html#summary-and-key-takeaways",
+    "title": "Understanding the Learning Journey",
+    "section": "Summary and Key Takeaways",
+    "text": "Summary and Key Takeaways\nThis lesson established the framework for your learning journey through this course. The key points to remember are:\n\nActive engagement with the material leads to better learning outcomes\nProgressive structure means each lesson builds on the previous ones\nPractical application is emphasized throughout the course\nSelf-paced learning allows you to move at a comfortable speed\nSupport resources are available to help you succeed\n\n\nAction Items\nBefore moving to the next lesson:\n\nSet up your preferred note-taking system\nBookmark this course for easy access\nSchedule time for the upcoming lessons\nIdentify one specific way you plan to apply what you’re learning\n\n\n\n\n\n\n\nNoteReady to Continue?\n\n\n\nYou now have a solid understanding of how this course works and what to expect. You’re ready to dive into the core content in the next module. Remember, learning is a journey — enjoy the process!\n\n\nThe foundation is set, and you’re equipped with the knowledge and strategies you need to succeed. Let’s move forward and start building those practical skills!"
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html",
+    "href": "modules/01-introduction/01-lesson.html",
+    "title": "Understanding the Learning Journey",
+    "section": "",
+    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept.",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#course-structure-and-expectations",
+    "href": "modules/01-introduction/01-lesson.html#course-structure-and-expectations",
+    "title": "Understanding the Learning Journey",
+    "section": "",
+    "text": "Welcome to your second lesson in this starter course! Now that you’ve been introduced to the basics, let’s dive deeper into how this course is structured and what you can expect as you progress through the material.\n\n\nThis course is built around the principle of progressive learning — each lesson builds upon the previous one, creating a solid foundation of knowledge that you can apply immediately. Rather than overwhelming you with theory, we focus on practical, actionable content that you can use right away.\n\n\n\n\n\n\nNoteLearning Path\n\n\n\nEach module is designed to take approximately 1-2 hours to complete, including hands-on exercises and reflection time. Don’t rush through the material — take time to practice and internalize each concept.",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#how-to-get-the-most-from-this-course",
+    "href": "modules/01-introduction/01-lesson.html#how-to-get-the-most-from-this-course",
+    "title": "Understanding the Learning Journey",
+    "section": "How to Get the Most from This Course",
+    "text": "How to Get the Most from This Course\n\nActive Learning Strategies\nLearning is most effective when you’re actively engaged with the material. Here are the key strategies we’ll use throughout this course:\n\nPractice Immediately: Each concept is followed by practical exercises\nReflect and Connect: Regular check-ins help you connect new knowledge to what you already know\nApply in Context: Real-world scenarios help you understand when and how to use new skills\n\n\n\nSetting Up for Success\nBefore diving into the core content, let’s establish some best practices:\n## Your Learning Checklist\n- [ ] Set aside dedicated time for each lesson\n- [ ] Have a notebook (digital or physical) for taking notes\n- [ ] Create a practice space for exercises\n- [ ] Identify how you'll apply this knowledge in your work\n\n\n\n\n\n\nTipTime Management\n\n\n\nBlock out focused time for learning. Research shows that 25-30 minute focused sessions with short breaks are more effective than long, interrupted study periods.",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#navigation-and-resources",
+    "href": "modules/01-introduction/01-lesson.html#navigation-and-resources",
+    "title": "Understanding the Learning Journey",
+    "section": "Navigation and Resources",
+    "text": "Navigation and Resources\n\nUsing the Course Interface\nThis course website includes several helpful features:\n\nSearch functionality: Use the search box in the navigation bar to quickly find specific topics\nPage navigation: Previous/next links at the bottom of each page keep you on track\nReader mode: Toggle for distraction-free reading when you need to focus\nResponsive design: Works seamlessly on desktop, tablet, and mobile devices\n\n\n\nCourse Materials Organization\nThe course is organized into logical modules, each containing multiple lessons:\nStarter Course/\n├── Module 01: Introduction\n│   ├── Welcome (Getting oriented)\n│   └── Understanding the Learning Journey (You are here!)\n├── Module 02: Core Concepts\n│   └── [Future lessons will be added here]\n└── Module 03: Advanced Applications\n    └── [Future lessons will be added here]",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#learning-objectives-and-outcomes",
+    "href": "modules/01-introduction/01-lesson.html#learning-objectives-and-outcomes",
+    "title": "Understanding the Learning Journey",
+    "section": "Learning Objectives and Outcomes",
+    "text": "Learning Objectives and Outcomes\n\nWhat You’re Building Toward\nBy the end of this course, you will be able to:\n\nUnderstand the fundamental concepts covered in each module\nApply these concepts in practical, real-world situations\nEvaluate different approaches and choose the most appropriate solutions\nCreate your own implementations using the skills you’ve learned\n\n\n\nSkill Development Framework\nWe use a progressive skill development approach:\n\nFoundation: Understanding core principles and terminology\nApplication: Practicing with guided examples and exercises\nIntegration: Combining concepts to solve complex problems\nInnovation: Adapting and extending concepts for novel situations\n\n\n\n\n\n\n\nNoteAssessment and Progress\n\n\n\nWhile this is a self-paced course, regular self-assessment is crucial. Each module includes checkpoints to help you gauge your understanding and identify areas that may need additional review.",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#common-challenges-and-solutions",
+    "href": "modules/01-introduction/01-lesson.html#common-challenges-and-solutions",
+    "title": "Understanding the Learning Journey",
+    "section": "Common Challenges and Solutions",
+    "text": "Common Challenges and Solutions\n\nOvercoming Learning Obstacles\nEvery learner faces challenges. Here are the most common ones and how to address them:\nInformation Overload - Solution: Take breaks between lessons and practice what you’ve learned before moving on\nLack of Context - Solution: Try to connect each new concept to something you already know or use\nPerfectionism - Solution: Remember that learning is iterative — you don’t need to master everything on the first pass\nTime Constraints - Solution: Even 15 minutes of focused learning is valuable — consistency matters more than duration\n\n\nBuilding Confidence\nLearning new skills can feel overwhelming, but remember:\n\nEveryone starts as a beginner\nMaking mistakes is part of the learning process\nEach small step forward is progress worth celebrating\n\n\n\n\n\n\n\nTipGrowth Mindset\n\n\n\nApproach challenges with curiosity rather than frustration. Ask “What can I learn from this?” instead of “Why don’t I understand this?”",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#next-steps-and-preparation",
+    "href": "modules/01-introduction/01-lesson.html#next-steps-and-preparation",
+    "title": "Understanding the Learning Journey",
+    "section": "Next Steps and Preparation",
+    "text": "Next Steps and Preparation\n\nWhat’s Coming Up\nIn the next module, we’ll begin exploring the core concepts that form the foundation of this subject area. You’ll start with hands-on exercises and build practical skills you can use immediately.\n\n\nHow to Prepare\n\nReview your notes from this lesson and the welcome lesson\nSet up your learning environment with any tools or resources mentioned\nClear your schedule for dedicated learning time\nPrepare questions about anything you’d like clarified",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-lesson.html#summary-and-key-takeaways",
+    "href": "modules/01-introduction/01-lesson.html#summary-and-key-takeaways",
+    "title": "Understanding the Learning Journey",
+    "section": "Summary and Key Takeaways",
+    "text": "Summary and Key Takeaways\nThis lesson established the framework for your learning journey through this course. The key points to remember are:\n\nActive engagement with the material leads to better learning outcomes\nProgressive structure means each lesson builds on the previous ones\nPractical application is emphasized throughout the course\nSelf-paced learning allows you to move at a comfortable speed\nSupport resources are available to help you succeed\n\n\nAction Items\nBefore moving to the next lesson:\n\nSet up your preferred note-taking system\nBookmark this course for easy access\nSchedule time for the upcoming lessons\nIdentify one specific way you plan to apply what you’re learning\n\n\n\n\n\n\n\nNoteReady to Continue?\n\n\n\nYou now have a solid understanding of how this course works and what to expect. You’re ready to dive into the core content in the next module. Remember, learning is a journey — enjoy the process!\n\n\nThe foundation is set, and you’re equipped with the knowledge and strategies you need to succeed. Let’s move forward and start building those practical skills!",
+    "crumbs": [
+      "Introduction",
+      "Lesson"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-welcome.html",
+    "href": "modules/01-introduction/02-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/02-welcome.html#introduction",
+    "href": "modules/01-introduction/02-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material.",
+    "crumbs": [
+      "Introduction",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html",
+    "href": "modules/01-introduction/01-welcome.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material."
+  },
+  {
+    "objectID": "modules/01-introduction/01-welcome.html#introduction",
+    "href": "modules/01-introduction/01-welcome.html#introduction",
+    "title": "Welcome",
+    "section": "",
+    "text": "Start writing your first lesson here. Use Markdown syntax to format your content.\n\n\n\nKey concept one\nKey concept two\nKey concept three\n\n\n\n\nReplace this content with your lesson material."
   }
 ]
